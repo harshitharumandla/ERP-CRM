@@ -38,3 +38,16 @@ ERP-CRM/
 ## How to Run the Project
 
 ### Backend
+## Screenshots
+
+### Login Page
+![Login Page](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Products
+![Products](products.png)
+
+### Customers
+![Customers](customers.png)
