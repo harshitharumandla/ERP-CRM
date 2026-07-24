@@ -1,0 +1,33 @@
+table {
+
+  width:100%;
+  border-collapse:collapse;
+
+}
+
+
+th {
+
+  background:#111827;
+  color:white;
+  padding:12px;
+
+}
+
+
+td {
+
+  padding:12px;
+  border-bottom:1px solid #ddd;
+
+}
+
+
+button {
+
+  padding:8px 12px;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+
+}
