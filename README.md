@@ -32,6 +32,11 @@ A full-stack ERP + CRM web application designed to manage products, customers, i
 - PostgreSQL
 
 ## Project Structure
+ERP-CRM/
+│
+├── frontend/
+│
+└── backend/
 ## How to Run the Project
 
 ### Backend Setup
