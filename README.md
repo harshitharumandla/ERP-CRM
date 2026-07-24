@@ -41,13 +41,19 @@ ERP-CRM/
 ## Screenshots
 
 ### Login Page
-![Login Page](login.png)
+![Login Page](LOGIN.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](DASHBOARD.png)
 
-### Products
-![Products](products.png)
+### Add Product
+![Add Product](ADD%20PRODUCT.png)
+
+### Add Customer
+![Add Customer](ADD%20CUSTOMER.png)
 
 ### Customers
-![Customers](customers.png)
+![Customers](CUSTOMERS.png)
+
+### Search Products
+![Search Products](SEARCH%20PRODUCTS.png)
