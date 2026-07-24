@@ -14,7 +14,6 @@ A full-stack ERP + CRM web application designed to manage products, customers, i
 - Add, View and Manage Products
 - Add and Manage Customers
 - Search Products
-- REST API Integration
 
 ## Tech Stack
 
@@ -22,7 +21,6 @@ A full-stack ERP + CRM web application designed to manage products, customers, i
 - React.js
 - TypeScript
 - CSS
-- Vite
 
 ### Backend
 - Node.js
@@ -32,6 +30,5 @@ A full-stack ERP + CRM web application designed to manage products, customers, i
 
 ### Database
 - PostgreSQL
-- Prisma ORM
 
 ## Project Structure
