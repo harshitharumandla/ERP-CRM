@@ -32,3 +32,11 @@ A full-stack ERP + CRM web application designed to manage products, customers, i
 - PostgreSQL
 
 ## Project Structure
+## How to Run the Project
+
+### Backend Setup
+
+1. Navigate to backend folder:
+
+```bash
+cd backend
